@@ -1,0 +1,9 @@
+50
+20 0 Sturovo nam.
+35 0 Mestsky park
+10 20 Dargovska
+40 20 Nemocnica
+10 40 Bratska
+5 10 Mestsky urad
+35 10 Partizanska
+0 55 Bernolakova

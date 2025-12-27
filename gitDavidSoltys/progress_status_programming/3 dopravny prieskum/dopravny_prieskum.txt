@@ -1,0 +1,11 @@
+10;0;Sturovo nam.
+5;0;Mestsky park
+50;1;Dargovska
+2;0;Nemocnica
+10;3;Bratska
+1;1;Mestsky hrad
+15;10;Partizanska
+1;2;Bernolakova
+21;0;Kupalisko
+0;7;Sturova
+0;91;Autobusova stanica
